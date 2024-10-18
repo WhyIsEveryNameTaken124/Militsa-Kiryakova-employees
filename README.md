@@ -7,8 +7,8 @@ Application that identifies the pair of employees who have worked together on co
 
 ### 2) open the project
 
-### 3 run the program
+### 3) run the program
 
-### 4 choose your option
+### 4) choose your option
 
-### 5 choose your file
+### 5) choose your file
